@@ -1,0 +1,5 @@
+{
+  "name": "Personal Finance Tracker (Offline)",
+  "description": "A simple, offline-first personal finance tracker for elderly users, supporting English and Tamil, with data export features.",
+  "requestFramePermissions": []
+}
